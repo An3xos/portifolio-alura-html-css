@@ -11,3 +11,4 @@
 
 ## :round_pushpin: Desenvolvido por:
 ### Anaxímenes Nascimento
+[<img src="https://avatars.githubusercontent.com/u/223775790?v=4" width=115><br><sub>Anaxímenes Nascimento</sub>](https://github.com/an3xos)
